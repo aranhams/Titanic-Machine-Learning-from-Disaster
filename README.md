@@ -1,5 +1,5 @@
 # [Kaggle] Titanic: Machine Learning from Disaster
-An initial Kaggle dataset for data science and ML learning.
+An initial Kaggle dataset for data science and ML.
 
 Jupyter notebook with training code used for Kaggle's Titanic initial challenge.
 
